@@ -3,4 +3,7 @@
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
+.App {
+  @apply min-h-[100vh] py-[2rem] lg:py-[5rem] w-[100%] bg-[#e6e6e6] flex justify-center items-center;
+}
 @tailwind utilities;
