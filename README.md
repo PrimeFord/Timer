@@ -1,4 +1,4 @@
-# Spotta
+# Timer
 
 Timer: This project is a brief test on Implement a countdown timer in react using React Hooks to start, pause, resume and reset the timer.
 
